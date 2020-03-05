@@ -1,3 +1,2 @@
-<?
+<?php
 	// We draw nothing!
-?>

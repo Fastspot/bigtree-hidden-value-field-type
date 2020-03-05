@@ -1,9 +1,9 @@
 {
     "type": "extension",
     "id": "com.fastspot.hidden-value-field-type",
-    "version": "1.0",
-    "revision": 2,
-    "compatibility": "4.2+",
+    "version": "1.0.1",
+    "revision": 3,
+    "compatibility": "4.4+",
     "title": "Hidden Value",
     "description": "A field type that implements a hidden value (not editable by the user).",
     "keywords": [

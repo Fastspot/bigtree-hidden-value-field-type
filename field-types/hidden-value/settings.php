@@ -1,5 +1,5 @@
-<?
-	$value = empty($data["hidden_value"]) ? "" : htmlspecialchars($data["hidden_value"]);
+<?php
+	$value = empty($settings["hidden_value"]) ? "" : htmlspecialchars($settings["hidden_value"]);
 ?>
 <fieldset>
 	<label>Hidden Value</label>
